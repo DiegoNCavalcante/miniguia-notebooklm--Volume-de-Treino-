@@ -82,6 +82,8 @@ O baixo volume prioriza eficiência e menor fadiga, enquanto o alto volume busca
 * **Alto volume:** mais séries e maior carga total
 
 ---
+### Link
+https://notebooklm.google.com/notebook/ecb3924c-e98d-40c1-bb30-20f837cc3088
 
 ### 🔁 Prompts Reutilizáveis
 
